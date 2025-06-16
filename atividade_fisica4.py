@@ -84,6 +84,9 @@ out = widgets.interactive_output(plot_diffraction_interference, {
 
 display(ui, out)
 
+
+
+# Segundo Metodo
 import numpy as np
 import matplotlib.pyplot as plt
 import ipywidgets as widgets
