@@ -1,4 +1,4 @@
-# 🌈 Simulador Interativo de Difração e Interferência
+# Simulador Interativo de Difração e Interferência
 
 Este repositório contém um script em Python desenvolvido como parte de uma **atividade da disciplina Física Complementar** (equivalente à Física 4) do curso de Meteorologia da **Universidade Federal de Campina Grande (UFCG)**.
 
