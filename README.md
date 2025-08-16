@@ -27,3 +27,7 @@ Este script foi feito para ser executado em **Jupyter Notebooks** (ambiente loca
 
 ```bash
 pip install ipywidgets matplotlib numpy
+
+
+<img width="861" height="550" alt="image" src="https://github.com/user-attachments/assets/e23783da-6804-47e6-accd-958b76b72ed7" />
+
