@@ -25,9 +25,11 @@ Os gráficos gerados mostram a intensidade da luz como função do ângulo de ob
 
 Este script foi feito para ser executado em **Jupyter Notebooks** (ambiente local ou Google Colab). Bibliotecas utilizadas:
 
+<img width="861" height="550" alt="image" src="https://github.com/user-attachments/assets/166a69a6-32de-44eb-8fd1-c4fbac8aea0a" />
+
+
+
 ```bash
 pip install ipywidgets matplotlib numpy
 
-
-<img width="861" height="550" alt="image" src="https://github.com/user-attachments/assets/e23783da-6804-47e6-accd-958b76b72ed7" />
 
